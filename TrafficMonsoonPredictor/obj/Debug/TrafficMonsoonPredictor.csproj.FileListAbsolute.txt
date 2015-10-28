@@ -1,0 +1,9 @@
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\bin\Debug\TrafficMonsoonPredictor.exe.config
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\bin\Debug\TrafficMonsoonPredictor.exe
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\bin\Debug\TrafficMonsoonPredictor.pdb
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\obj\Debug\TrafficMonsoonPredictor.csprojResolveAssemblyReference.cache
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\obj\Debug\TrafficMonsoonPredictor.Form1.resources
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\obj\Debug\TrafficMonsoonPredictor.Properties.Resources.resources
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\obj\Debug\TrafficMonsoonPredictor.csproj.GenerateResource.Cache
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\obj\Debug\TrafficMonsoonPredictor.exe
+C:\Projects\Tutorials\TrafficMonsoonPredictor\TrafficMonsoonPredictor\obj\Debug\TrafficMonsoonPredictor.pdb
